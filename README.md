@@ -22,8 +22,7 @@ turtlebot3_gazebo world(maze) will be launched and then the R.VIZ navigation wil
 
 I have placed the lauch file in the directory /catkin_ws/src/move_base_goals/launch/
 The c++ executable file is placed in the directory /catkin_ws/src/move_base_goals/src/
-
-If you find any incovenience in launching the file please contact me here --> thyman_bathlo@yahoo.com
+#Author --> thyman_bathlo@yahoo.com
 
 
 
