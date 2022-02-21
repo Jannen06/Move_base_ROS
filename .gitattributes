@@ -1,0 +1,2 @@
+C:/Program[[:space:]]Files/Git/Documents/ROS/Move_base_ROS filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
