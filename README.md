@@ -9,6 +9,7 @@
 ##Open a terminal and execute this
 
 ~$ cd ~/catkin_ws 	# Navigate to the catkin_ws or the "name of the directory"
+
 ~$ catkin_make		# build the catkin
 
 -[Then launch the file name move_base_assignment.launch]
